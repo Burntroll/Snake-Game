@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+canvas {
+    border: 1px black solid;
+}
